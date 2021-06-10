@@ -5,4 +5,4 @@ A modification of an existing demo mobile menu to create a working feature proto
 https://codepen.io/kylelavery88/full/WdmVJL
 
 ## Full prototype:
-https://codepen.io/sergiodaviduo/pen/JjWboqM
+https://codepen.io/sergiodaviduo/full/JjWboqM
